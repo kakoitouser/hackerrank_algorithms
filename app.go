@@ -1,1 +1,0 @@
-package hackerrank_algorithms
